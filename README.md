@@ -1,4 +1,7 @@
-Untranspose-a-Wide-File by Art Tabachnek - Email: art@analystfinder.com
+Untranspose-a-Wide-File 
+Arthur S. Tabachneck, Ph.D., AnalystFinder, Inc.; Matthew Kastin, NORC at the University of Chicago; Joe Matise, NORC at the University of Chicago; Gerhard Svolba, Ph.D., SAS Institute, Inc.
+
+Email: art@analystfinder.com
 
 Presented at SAS Global Forum 2018 in Denver, Colorado - Paper 2419
 
